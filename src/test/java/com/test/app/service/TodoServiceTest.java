@@ -24,7 +24,7 @@ class TodoServiceTest {
     }
 
     @Test
-g    void testGetTodoById() {
+    void testGetTodoById() {
         Todo todo = new Todo();
         todo.setId(1L);
         todo.setTitle("Test Todo");
