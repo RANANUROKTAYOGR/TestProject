@@ -11,7 +11,7 @@ pipeline {
         stage('Deploy') {
             steps {
                 // Maven Wrapper ile test
-                echo 'Deploy ediliyor...'
+                echo 'Deploy ediliyor....'
            }
        }
 
