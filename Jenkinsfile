@@ -12,6 +12,7 @@ pipeline {
             steps {
                 // Maven Wrapper ile test
                 echo 'Deploy ediliyor.....'
+                echo 'rana'
            }
        }
 
