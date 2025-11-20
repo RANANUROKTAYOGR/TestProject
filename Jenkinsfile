@@ -13,6 +13,7 @@ pipeline {
                 // Maven Wrapper ile test
                 echo 'Deploy ediliyor.....'
                 echo 'rana'
+                echo 'ilvan'
            }
        }
 
