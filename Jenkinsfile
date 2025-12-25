@@ -14,6 +14,7 @@ pipeline {
                 echo 'Deploy ediliyor.....'
                 echo 'rana'
                 echo 'ilvan'
+                echo 'k'
            }
        }
 
